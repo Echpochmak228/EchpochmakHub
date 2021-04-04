@@ -40,7 +40,7 @@ poisk_button = QPushButton('Поиск')
 levo_button = QPushButton('Лево')
 pravo_button = QPushButton('Право')
 zerkalo_button = QPushButton('Зеркало')
-rezkost_button = QPushButton('Резкость')
+rezkost_button = QPushButton('Резкоcть')
 chb_button = QPushButton('Ч / Б')
 
 gor_2.addWidget(levo_button)
